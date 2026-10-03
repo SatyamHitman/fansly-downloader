@@ -2,9 +2,9 @@
 
 Save Fansly photos, videos and DM media **free** — no paid plan — processed entirely on your own device.
 
-This is the Fansly documentation for [**Fanripper**](https://fanripper.com) — a browser extension that also supports OnlyFans, JustForFans and privacy.com.br.
+This is the Fansly documentation for [**Fanripper**](https://fanripper.com) — a browser extension and an iPhone & Android app that also supports OnlyFans, JustForFans and privacy.com.br.
 
-⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 🌐 **[Fansly downloader page](https://fanripper.com/fansly-downloader)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
+⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 🌐 **[Fansly downloader page](https://fanripper.com/fansly-downloader)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
 
 ---
 
@@ -45,7 +45,17 @@ Worth noting: if the rung you picked cannot be resolved, the file is honestly la
 - **No story downloads.**
 - It **does not bypass a paywall**. Locked media shows its details and routes you to the purchase screen.
 
-## Install (about 60 seconds)
+## On your phone (iPhone & Android)
+
+Fanripper also runs as an app on your phone. Fansly photos, video and DM media save **free** in the app too — protected and whole-timeline extras follow the same plans as the extension.
+
+1. Install **Expo Go** (free) from the [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent).
+2. Open **[fanripper.com/app](https://fanripper.com/app)** on your phone and tap **Open Fanripper in Expo Go** — or scan the code there with your phone's camera.
+3. Sign in with your Fanripper email: same account and plan as the extension.
+
+Your phone gets its own device slot, so it never signs out your computer. Downloads run while the app is open, and updates arrive on their own. Phone guide: [Fansly downloader for iPhone & Android](https://fanripper.com/blog/fansly-downloader-iphone-android).
+
+## Install the extension (about 60 seconds)
 
 1. Download `fanripper.zip` from [install.fanripper.com](https://install.fanripper.com).
 2. Unzip it somewhere permanent.
