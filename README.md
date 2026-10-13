@@ -2,7 +2,7 @@
 
 Save Fansly photos, videos and DM media **free** — no paid plan — processed entirely on your own device.
 
-This is the Fansly documentation for [**Fanripper**](https://fanripper.com) — a browser extension and an iPhone & Android app that also supports OnlyFans, JustForFans and privacy.com.br.
+This is the Fansly documentation for [**Fanripper**](https://fanripper.com) — a browser extension and an iPhone & Android app that also supports OnlyFans, JustForFans, privacy.com.br and Fanfix.
 
 ⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 🌐 **[Fansly downloader page](https://fanripper.com/fansly-downloader)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
 
@@ -78,7 +78,7 @@ No tool that talks to a site it does not control can promise you an outcome. Loc
 
 ## Links
 
-- 🌐 [fanripper.com](https://fanripper.com) — all four supported sites
+- 🌐 [fanripper.com](https://fanripper.com) — all five supported sites
 - 📊 [Side-by-side capability comparison](https://fanripper.com/supported-sites)
 - 📖 [Free Fansly downloader guide](https://fanripper.com/blog/fansly-video-downloader-free)
 - 💬 [Telegram](https://t.me/fanripper)
